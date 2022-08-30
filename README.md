@@ -2,7 +2,7 @@
 
 Programming, Music, Calisthenics.
 
-👋 Hi, I’m @paul-ohl
+[![Linkedin: paulohl](https://img.shields.io/badge/-PaulOHL-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paul-ohl-19aaab196/)](https://www.linkedin.com/in/paul-ohl-19aaab196/)
 
 Go check out my website ([paulohl.fr](https://paulohl.fr))! (or `curl` it 😉)
 

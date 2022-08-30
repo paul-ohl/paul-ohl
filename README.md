@@ -14,7 +14,7 @@ More specifically, it taught me:
 - general coding principles ([libft](https://github.com/paul-ohl/libft))
 - function pointers and va_args ([printf](https://github.com/paul-ohl/printf))
 - network programming basics (netwhat)
-- Docker (ft_server)
+- Docker and running a basic server (ft_server)
 - Graphics programming ([cub3d](https://github.com/paul-ohl/cub3d) and [fract-ol](https://github.com/paul-ohl/fract-ol))
 - Basic assembly programming ([libasm](https://github.com/paul-ohl/libasm))
 - The inner workings of bash, reading from and writing to files, pipes and so much more ([minishell](https://github.com/paul-ohl/minishell))
@@ -22,3 +22,11 @@ More specifically, it taught me:
 - C++ and more generally OOP ([containers](https://github.com/paul-ohl/containers))
 - Sorting algorithms and optimisation ([philosophers](https://github.com/paul-ohl/philosophers))
 - Socket programming in C/C++ ([webserv](https://github.com/paul-ohl/webserv))
+
+## What I taught myself
+
+I spend a lot of my free time on personnal projects, which allows me to keep the programming fun and improve.
+
+I learned C# in order to create [a video game](https://sweetiemetalhead.itch.io/shooter-in-the-dark) (you can try it out!).
+
+I taught myself how to manage a server to host [my personnal website](https://paulohl.fr).

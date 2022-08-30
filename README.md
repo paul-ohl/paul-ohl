@@ -2,9 +2,9 @@
 
 Programming, Music, Calisthenics.
 
-- 👋 Hi, I’m @paul-ohl
-- I'm a student at school 42
-- average vim enjoyer
+👋 Hi, I’m @paul-ohl
+
+Go check out my website ([paulohl.fr](https://paulohl.fr))! (or `curl` it 😉)
 
 ## What my school taught me
 

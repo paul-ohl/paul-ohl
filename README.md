@@ -27,6 +27,8 @@ More specifically, it taught me:
 
 I spend a lot of my free time on personnal projects, which allows me to keep the programming fun and improve.
 
+I play a bit of [CodinGame](https://www.codingame.com/), you can [check out my profile](https://www.codingame.com/profile/03584765ce60c2e6df029de3f3727fc36821145)
+
 I learned C# in order to create [a video game](https://sweetiemetalhead.itch.io/shooter-in-the-dark) (you can try it out!).
 
 I taught myself how to manage a server to host [my personnal website](https://paulohl.fr).
